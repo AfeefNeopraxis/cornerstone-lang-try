@@ -6,6 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Draft
 
+## 6.12.1 (07-11-2023)
+
 ## 6.12.0 (07-06-2023)
 - sync package lock file [#2373](https://github.com/bigcommerce/cornerstone/pull/2373)
 - Stored payment method name is not visible in Cornerstone Bold theme style  [#2371](https://github.com/bigcommerce/cornerstone/pull/2371)
